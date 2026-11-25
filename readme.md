@@ -1,1 +1,2 @@
 Salom
+Yangi uzgarish
